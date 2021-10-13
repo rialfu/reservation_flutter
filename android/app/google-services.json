@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234206217654",
+    "project_id": "reservation-33aef",
+    "storage_bucket": "reservation-33aef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234206217654:android:72baed229dbeb7ff096d17",
+        "android_client_info": {
+          "package_name": "com.rema.tugas_reservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234206217654-grmrr02m66r081q6snudgup71o3dggtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeYKTlz7LqDE7yMfKds2Hla_7fy1k3FLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234206217654-grmrr02m66r081q6snudgup71o3dggtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
